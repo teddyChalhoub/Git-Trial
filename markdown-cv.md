@@ -1,5 +1,5 @@
 
-
+![](./pic/teddyChalhoubCVPic.png)
 ## TEDDY CHALHOUB
 ##### PROFILE:
 Dedicated employee, eager to work at your company to broaden my knowledge in programing. 
