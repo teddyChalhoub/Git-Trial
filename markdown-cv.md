@@ -7,7 +7,7 @@ Dedicated employee, eager to work at your company to broaden my knowledge in pro
 I have developed a university project (mobile application) using Laravel framework with php, creating API for the android application. 
 
 
-
+##### Contact
 **PHONE:** +961 70 427646  | **EMAIL:** teddy_chalhoub@hotmail.com
 
 ---
